@@ -13,8 +13,7 @@ Currently, two official plugins are available:
 2. ✅ - Creating React Elements
 3. ✅ - Writing React Components
 4. ✅ - Handling State in a React Project
-5. ❌ - React Server Components
-6. ❌ - Asynchronous React in Next.js
+5. ✅ - [Continues in NextJS-App](https://github.com/adjoth/nextjs-app)
 
 ## Credits
 
